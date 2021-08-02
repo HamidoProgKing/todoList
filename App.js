@@ -103,6 +103,7 @@ addWrapper: {
 },
 addText: {
   fontSize:40,
+  color:'#C0C0C0',
 },
 
 });
